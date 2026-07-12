@@ -378,7 +378,7 @@ function StudioVisionSection() {
   const features = [
     { icon: <img src={towerImg} alt="Castle tower" style={{ width: 64, height: 64, objectFit: "contain" }} />, title: "Living Dungeons", desc: "Every siege is different — the fortress shifts, traps rearrange, and new chambers emerge each run." },
     { icon: <img src={staffImg} alt="Wizard staff" style={{ width: 64, height: 64, objectFit: "contain" }} />, title: "Wizard's Curse", desc: "Unravel an ancient sorcerer's dark power across escalating boss encounters that test your whole crew." },
-    { icon: <img src={forgeImg} alt="Forge" style={{ width: 64, height: 64, objectFit: "contain" }} />, title: "Rebuild & Empower", desc: "Rescue villagers, return them home, and unlock their unique skills to permanently power up your guild." },
+    { icon: <img src={forgeImg} alt="Forge" style={{ width: 64, height: 64, objectFit: "contain" }} />, title: "Rebuild & Empower", desc: "Rescue villagers, return them home, and unlock their unique skills to permanently power up your character." },
     { icon: <img src={axesImg} alt="Crossed axes" style={{ width: 64, height: 64, objectFit: "contain" }} />, title: "Solo or 8-Player Co-op", desc: "Play at your own pace or storm the fortress with a full crew of eight in drop-in co-op play." },
   ];
 
@@ -874,7 +874,7 @@ function Footer() {
           letterSpacing: "0.06em",
         }}
       >
-        © 2025 Super Maple Studio · All rights reserved · Made with ❤️ and a sprinkle of maple magic
+        © 2026 Super Maple Studio · All rights reserved · Made with ❤️ and a sprinkle of maple magic
       </p>
     </footer>
   );

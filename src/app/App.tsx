@@ -208,7 +208,7 @@ function SwitchBadge() {
   return (
     /* using <a>: links to Stripe support page */
     <a
-      href="https://buy.stripe.com/test_3cI28t4OA6tY6XibJRgfu00"
+      href="https://buy.stripe.com/eVq9AVcnm5pG4ke4qWgQE00"
       target="_blank"
       rel="noopener noreferrer"
       onMouseEnter={() => setHovered(true)}
@@ -673,7 +673,7 @@ function SupportSection() {
           <div style={{ display: "flex", gap: 16, justifyContent: "center", flexWrap: "wrap" }}>
             {/* Buy Me a Coffee */}
             <a
-              href="https://buy.stripe.com/test_3cI28t4OA6tY6XibJRgfu00"
+              href="https://buy.stripe.com/eVq9AVcnm5pG4ke4qWgQE00"
               target="_blank"
               rel="noopener noreferrer"
               onMouseEnter={() => setCoffeeHover(true)}
@@ -702,7 +702,7 @@ function SupportSection() {
 
             {/* Support Studio */}
             <a
-              href="https://buy.stripe.com/test_3cI28t4OA6tY6XibJRgfu00"
+              href="https://buy.stripe.com/eVq9AVcnm5pG4ke4qWgQE00"
               target="_blank"
               rel="noopener noreferrer"
               onMouseEnter={() => setSupportHover(true)}
